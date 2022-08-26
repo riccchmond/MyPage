@@ -1,0 +1,68 @@
+/* Brought to you by Mpofu Richmond, because we are spiders*/
+body{
+	position: realtive;
+	color: white;
+	margin-left:0px;
+	margin-right:0px;
+	background-color: black;
+}
+
+img{
+	width: 200px;
+	height: 200px;
+	border-radius:50%;
+}
+
+
+h3{
+	text-align: center;
+	font-size:35px;
+}
+
+hr{
+	color: lime;
+}
+
+button{
+	background-color: lime;
+	padding:15px 32px;
+	border:none;
+	color:white;
+	position: center;
+	display:inline-block;
+	font-size: 18px;
+	text-align: center;
+}
+
+.page-title{
+	text-align: center;
+}
+
+.about-me{
+	font-size: 20px;
+	text-align: center;
+}
+
+.my-summary{
+	font-size: 20px;
+}
+
+.resume-body{
+	padding-left:30px;
+	padding-right:30px;
+	font-size: 20px;
+}
+
+
+
+.btn {
+	padding-left:45%;
+}
+
+.conclusion{
+	
+}
+
+.footer{
+	text-align: center;
+}
